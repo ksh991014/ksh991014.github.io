@@ -1,43 +1,27 @@
 ---
 layout: default
 ---
-<figure style="width: 150px" class="align-left">
-  <img src="profile.png" alt="">
-</figure> 
+<img src="profile.jpg" height="300px" width="300px" align="right"> 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+I'm undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Centered Artifical Intelligence Lab). 
 
-## Usage
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+## Education
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+**University of Seoul**  
+- Bachelor student in Computer Science & Engineering  
+- March 2019 - Present
 
-### Files
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+## Experience
 
-## Example tag usage
+**Undergraduate Research Intern**  						          
+- Human-Centered Artificial Intelligence Lab ([HCAIL](https://hcail.uos.ac.kr/)), Supervisor: Prof. [Hyunggu Jung](http://hyunggujung.com/index.html)  
+- January 2023 – Present  
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+## Resume
 
-> blockquotes
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
 
 ## Licence and Author Information
 
