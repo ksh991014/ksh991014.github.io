@@ -20,11 +20,19 @@ I'm undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Cen
 - January 2023 – Present  
 
 ## Resume
-[download](resume_SanghunKim.pdf)
 
+[check Resume](resume_SanghunKim.pdf)
 
-## Licence and Author Information
+## Infomation
 
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
+**phone**   
+- 82+ 10-4511-0462
 
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+**e-mail**  
+- 507408gh@gmail.com
+
+**twitter**  
+- [@ksh991014](https://twitter.com/ksh991014)
+
+**linkedin**  
+- [김상훈](https://www.linkedin.com/in/%EC%83%81%ED%9B%88-%EA%B9%80-9006bb260/)
