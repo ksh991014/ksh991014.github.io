@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-![Banner](profile.png)
-
+<figure style="width: 150px" class="align-left">
+  <img src="profile.png" alt="">
+</figure> 
 
 **[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
 
