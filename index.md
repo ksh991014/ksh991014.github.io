@@ -20,7 +20,7 @@ I'm undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Cen
 - January 2023 – Present  
 
 ## Resume
-
+[download](resume_SanghunKim.pdf)
 
 
 ## Licence and Author Information
