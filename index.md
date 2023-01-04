@@ -3,8 +3,7 @@ layout: default
 ---
 <img src="profile.jpg" height="300px" width="300px" align="right"> 
 
-I'm undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Centered Artifical Intelligence Lab). 
-
+I'm an undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Centered Artifical Intelligence Lab). 
 
 ## Education
 
