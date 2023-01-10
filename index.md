@@ -25,7 +25,8 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 
 **University of Seoul**
 <p align="right">March 2019 - Present</p>  
-- Undergraduate student in Computer Science & Engineering  
+- Undergraduate student in  Department of Computer Science & Engineering  
+- Expected graduation date - February 2025
 
 ---
 ## Experience
