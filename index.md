@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+
+# <p align="center">WELCOME SANGHUN'S WEB PAGE </p>
+
 <img src="profile.jpg" height="400px" width="400px" align="right"> 
+
 
 I'm an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL). 
 
