@@ -39,4 +39,4 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 ---
 ## Resume
 
-[check Resume](resume_SanghunKim.pdf)
+[check Resume](resume_2.pdf)
