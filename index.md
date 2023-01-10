@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 align = "center"> WELCOME SANGHUN'S WEB PAGE </h1>
+<h1 align = "center"> WELCOME TO SANGHUN'S WEB PAGE </h1>
 
 <img src="profile.jpg" height="400px" width="400px" align="right"> 
 
