@@ -12,13 +12,13 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 ---
 ## Infomation
 
-<img src="phone_number.webp" height="12px" width="12px"> **phone** : 82+ 10-4511-0462
+<img src="phone_number.webp" height="12px" width="12px">**phone** : 82+ 10-4511-0462
 
-<img src="gmail.png" height="12px" width="12px"> **e-mail** : 507408gh@gmail.com
+<img src="gmail.png" height="12px" width="12px">**e-mail** : 507408gh@gmail.com
 
-<img src="twitter.png" height="12px" width="12px"> **twitter** : [@ksh991014](https://twitter.com/ksh991014)
+<img src="twitter.png" height="12px" width="12px">**twitter** : [@ksh991014](https://twitter.com/ksh991014)
 
-<img src="linkedln.png" height="12px" width="12px"> **linkedin** : [김상훈](https://www.linkedin.com/in/%EC%83%81%ED%9B%88-%EA%B9%80-9006bb260/)
+<img src="linkedln.png" height="12px" width="12px">**linkedin** : [김상훈](https://www.linkedin.com/in/%EC%83%81%ED%9B%88-%EA%B9%80-9006bb260/)
 
 ---
 ## Education
