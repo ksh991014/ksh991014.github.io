@@ -8,7 +8,7 @@ I'm an undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-
 ## Education
 
 **University of Seoul**  
-- Bachelor student in Computer Science & Engineering  
+- Undergraduate student in Computer Science & Engineering  
 - March 2019 - Present
 
 
