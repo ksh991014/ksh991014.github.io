@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="profile.jpg" height="300px" width="300px" align="right"> 
 
-I'm an undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-Centered Artifical Intelligence Lab). 
+I'm an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL). 
 
 
 ## Infomation
@@ -25,10 +25,9 @@ I'm an undergraduate research intern of [HCAIL](https://hcail.uos.ac.kr/)(Human-
 
 ## Experience
 
-**Undergraduate Research Intern**  						          
-- Human-Centered Artificial Intelligence Lab ([HCAIL](https://hcail.uos.ac.kr/)), Supervisor: Prof. [Hyunggu Jung](http://hyunggujung.com/index.html)  
-- January 2023 – Present  
-
+**Human-Centered Artificial Intelligence Lab**  						           - January 2023 – Present  
+- Supervisor: Prof. [Hyunggu Jung](http://hyunggujung.com/index.html)  
+- Undergraduate Research Intern
 ## Resume
 
 [check Resume](resume_SanghunKim.pdf)
