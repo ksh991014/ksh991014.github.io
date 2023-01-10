@@ -5,6 +5,7 @@ layout: default
 
 I'm an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL). 
 
+---
 
 ## Infomation
 
@@ -16,12 +17,15 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 
 **linkedin** : [김상훈](https://www.linkedin.com/in/%EC%83%81%ED%9B%88-%EA%B9%80-9006bb260/)
 
+---
+
 ## Education
 
 **University of Seoul**
 <p align="right">March 2019 - Present</p>  
 - Undergraduate student in Computer Science & Engineering  
 
+---
 
 ## Experience
 
@@ -29,6 +33,8 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 <p align="right">January 2023 – Present </p>  
 - Supervisor: Prof. [Hyunggu Jung](http://hyunggujung.com/index.html)  
 - Undergraduate Research Intern
+
+---
 
 ## Resume
 
