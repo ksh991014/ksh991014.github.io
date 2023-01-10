@@ -18,14 +18,15 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 
 ## Education
 
-**University of Seoul**  
+**University of Seoul** <div style="text-align: right"> March 2019 - Present </div>  
+
 - Undergraduate student in Computer Science & Engineering  
-- March 2019 - Present
 
 
 ## Experience
 
-**Human-Centered Artificial Intelligence Lab**  						           - January 2023 – Present  
+**Human-Centered Artificial Intelligence Lab** <div style="text-align: right">January 2023 – Present</div>  
+
 - Supervisor: Prof. [Hyunggu Jung](http://hyunggujung.com/index.html)  
 - Undergraduate Research Intern
 ## Resume
