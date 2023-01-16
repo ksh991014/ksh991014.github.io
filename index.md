@@ -12,7 +12,7 @@ I'm an undergraduate research intern of [Human-Centered Artifical Intelligence L
 ---
 ## Infomation
 
-<img src="phone_number.webp" style="float: left; width:18px; height:18px;"> <strong>phone</strong> : 82+ 10-4511-0462  
+<img src="phone_number.webp" style="float: left; width:18px; height:18px;"> <strong>phone</strong> : +82 10-4511-0462  
 
 <img src="gmail.png" style="float: left; width:18px; height:18px;"> <strong>e-mail</strong> : 507408gh@gmail.com  
 
