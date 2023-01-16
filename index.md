@@ -7,10 +7,11 @@ layout: default
 <img src="profile.jpg" height="450px" width="350px" align="right"> 
 
 
-I'm an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL). 
+I am an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL).  
+Also, I am a third-year student in computer science department and Engineering at University of Seoul.
 
 ---
-## Infomation
+## Contact
 
 <img src="phone_number.webp" style="float: left; width:18px; height:18px;"> <strong>phone</strong> : +82 10-4511-0462  
 
