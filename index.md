@@ -4,11 +4,11 @@ layout: default
 
 <h1 align = "center"> WELCOME TO SANGHUN'S WEB PAGE </h1>
 
-<img src="profile.jpg" height="450px" width="350px" align="right"> 
+<img src="profile.jpg" height="480px" width="380px" align="right"> 
 
 
 I am an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL).  
-Also, I am a third-year student in [computer science department and Engineering](https://engineering.uos.ac.kr/engineering/index.do?cate_id2=000010383&epTicket=INV) at [University of Seoul](https://www.uos.ac.kr/main.do?epTicket=INV#n).
+Also, I am a third-year student in [computer science department and Engineering](https://engineering.uos.ac.kr/engineering/index.do?cate_id2=000010383&epTicket=INV) at [University of Seoul](https://www.uos.ac.kr/main.do?epTicket=INV#n).  
 
 ---
 ## Contact
