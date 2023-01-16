@@ -4,7 +4,7 @@ layout: default
 
 <h1 align = "center"> WELCOME TO SANGHUN'S WEB PAGE </h1>
 
-<img src="profile.jpg" height="480px" width="380px" align="right"> 
+<img src="profile.jpg" height="500px" width="400px" align="right"> 
 
 
 I am an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL).  
