@@ -8,7 +8,7 @@ layout: default
 
 
 I am an undergraduate research intern of [Human-Centered Artifical Intelligence Lab](https://hcail.uos.ac.kr/)(HCAIL).  
-Also, I am a third-year student in computer science department and Engineering at University of Seoul.
+Also, I am a third-year student in [computer science department and Engineering](https://engineering.uos.ac.kr/engineering/index.do?cate_id2=000010383&epTicket=INV) at [University of Seoul](https://www.uos.ac.kr/main.do?epTicket=INV#n).
 
 ---
 ## Contact
